@@ -7,5 +7,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e Licenciatu
 
 ## Onde me encontrar?
 
-[Linkedin] (https://www.linkedin.com/in/julianamelo98/)
-[Telegram] (https://telegram.me/julianamelo98)
+[Linkedin](https://www.linkedin.com/in/julianamelo98/)
+[Telegram](https://telegram.me/julianamelo98)
