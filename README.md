@@ -1,9 +1,11 @@
-### Hi there 👋
+# Juliana Souza
 
-- 🔭 I’m currently working on improving my Javascript knowledge
-- 🌱 I’m currently learning ReactJs, Redux, Axios and Express
-- 👯 I’m looking to collaborate on open source projects o/
-- 🤔 I’m looking for help with CSS
-- 😄 Pronouns: ela/dela/she/her
-- ⚡ Fun fact: I'm a biologist and I've also been a programming teacher for kids!
--->
+
+## Sobre mim 
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e Licenciatura em Biologia na Universidade de Brasília. Atualmente estudo Javascript, CSS/HTML, Python e C/C++. Atualmente utilizo ReactJs para estudos pessoais. 
+
+## Onde me encontrar?
+
+[Linkedin] (https://www.linkedin.com/in/julianamelo98/)
+[Telegram] (https://telegram.me/julianamelo98)
