@@ -9,3 +9,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e Licenciatu
 
 [Linkedin](https://www.linkedin.com/in/julianamelo98/)
 [Telegram](https://telegram.me/julianamelo98)
+
+[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianasm)](https://github.com/julianasm/github-readme-stats)
+
